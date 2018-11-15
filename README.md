@@ -1,4 +1,4 @@
-# adminstripts
+# adminscripts
 
 A series of small, but useful, administration scripts
 
