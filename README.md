@@ -12,10 +12,15 @@ Just copy a script and run it. Nothing too fancy here.
 
 Search through a directory tree and report on which git repositories have no remote origin.
 
-### when-up.py
+### retry.py
 
-Run a command when an internet address is up.
+Retry a command until it succeeds.
 
 ### when-down.py
 
 Run a command when an internet address is down.
+
+### when-up.py
+
+Run a command when an internet address is up.
+
